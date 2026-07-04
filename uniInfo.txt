@@ -1,0 +1,71 @@
+University Information
+Name : University Of Central Punjab
+Address : Johar Town
+Date Of Formation : 20/12/2002
+Phone Number : 0300-0000000
+Email : ucp@gmail.com
+Website : www.ucp.com
+
+Degrees Information
+No Of Degrees : 1
+
+Degree1 Info
+Name : BSCS
+Duration : 4 years
+
+Courses Information
+No of Courses : 2
+
+Course1Info
+Title : ITC
+Code : ITC-101
+Credit Hours : 3
+Outline : ITC is Important$
+
+Course2Info
+Title : PF
+Code : PF-102
+Credit Hours : 3
+Outline : PF is Important
+$
+
+Students Information
+No of Students : 2
+
+Student1Info
+First Name : Ali Wahaj
+Last Name : Soofi
+Date of Birth : 12/8/2000
+Address : H#22
+Registration Number : L1F22BSCS0161
+Fees Per Semester : 50000
+Admission Date : 20/12/2022
+Batch : FALL-2022
+CGPA : 3.75
+
+
+Student2Info
+First Name : Awais
+Last Name : Khan
+Date of Birth : 20/12/200
+Address : H#23
+Registration Number : L1F22BSCS0169
+Fees Per Semester : 100000
+Admission Date : 20/12/2022
+Batch : FALL-2022
+CGPA : 3.75
+
+
+Teachers Information
+No of Teachers : 1
+
+Teacher1Info
+First Name : Dr Ahmad
+Last Name : Shabbar Kazmi
+Date of Birth : 12/2/1970
+Address : H#24
+Id : 1001
+Salary : $2000
+Final Degree : PHD
+Designation : Dr
+Joining Date : 10/2/2009

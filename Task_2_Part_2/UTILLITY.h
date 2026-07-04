@@ -1,0 +1,10 @@
+int lengthStr(const char*source);
+char* copyStr(const char*source);
+void reGrow(char*&_str, const int& size = 1);
+bool compareStr(const char*_str1, const char*_str2);
+int checkValue(const int&);
+double checkValue(const double&);
+long double checkValue(const long double& value);
+void inputString(istream& input, char*& str);
+int checkValue(const int& lowerLimit, const int& upperLimit, const int& value);
+float checkValue(const float& lowerLimit, const float& upperLimit, const float& value);

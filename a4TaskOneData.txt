@@ -1,0 +1,18 @@
+First Name : Ali 
+Last Name : Wahaj Soofi
+Date of Birth : 10/10/2004
+Address : H#22
+Registration Number : L1F22BSCS0161
+Fees Per Semester : 100000
+Admission Date : 12/7/2022
+Batch : FALL-2022
+CGPA : 3.75
+First Name : Dr Ahmad Shabbar
+Last Name : Kazmi
+Date of Birth : 12/12/1970
+Address : H#24
+Employee Id : 1000
+Salary : $500000
+Final Degree : PHd
+Designation : Dr
+Date of Joining : 12/12/2009
